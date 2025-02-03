@@ -72,10 +72,9 @@ Pull requests are welcome. Please follow these steps:
 4. **Push to the branch (`git push origin feature-branch`).**
 5. **Open a pull request.**
 
-## **License**
-This project is licensed under the **MIT License**.
+
 
 ## **Contact**
 For any queries or issues, feel free to reach out:
 - **GitHub:** [Ramishworsah](https://github.com/Ramishworsah)
-- **Email:** your-email@example.com
+- **Email:** 2203051050822@paruluniversity.ac.in
